@@ -1,0 +1,5 @@
+/Lab[1-4]/build-*/
+/Lab[1-4]/shaders/*.spv
+imgui.ini
+*.log
+/.work/
